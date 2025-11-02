@@ -1,4 +1,4 @@
-#Git testing
+#Git testing (pull wroked now testing git push)
 n = int(input("How many items? "))
 items = []
 
